@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.card{
+    background-color: green;
+    background-size: cover;
+    text-align: center;
+    margin: 50px auto;
+    color: #fff;
+    padding: 3rem;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 2rem;
+    color: goldenrod;
+    margin-bottom: 2.5rem;
+}
+p{
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+#message-id{
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 10px;
+    border: 1px solid goldenrod;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    text-align: center;
+}
